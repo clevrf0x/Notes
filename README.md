@@ -7,16 +7,8 @@ The repository is organized as follows:
 
 ```
 programming-notes/
-├── notes/
-│   ├── programming-language-1/
-│   │   ├── topic-1.md
-│   │   ├── topic-2.md
-│   │   ├── ...
-│   ├── programming-language-2/
-│   │   ├── topic-1.md
-│   │   ├── topic-2.md
-│   │   ├── ...
-├── images/
+├── language-1.md
+├── language-2.md
 ├── LICENSE
 └── README.md
 ```
