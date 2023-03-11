@@ -12,13 +12,6 @@ programming-notes/
 ├── LICENSE
 └── README.md
 ```
-notes/: This directory contains subdirectories for each programming language that I'm studying. Inside each language directory, I can create markdown files for different programming concepts and topics.
-
-images/: This directory is used to store images that I want to use in my markdown notes.
-
-LICENSE: This file contains the license that I'm using for my notes repository.
-
-README.md: This file contains the introductory information about the repository, its structure, and its purpose.
 
 ## Usage
 I can use my code editor to create and edit markdown files inside the notes/ directory. Whenever I make changes, I can commit and push my changes to the remote repository.
